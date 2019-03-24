@@ -1,2 +1,2 @@
 # Python_study
-recorde python study experience
+Recorde python study experience
